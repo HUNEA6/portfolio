@@ -5,7 +5,7 @@ HTML과 CSS, JavaScript만을 이용하여 나만의 포트폴리오 웹페이�
 
 ♥ Netlify를 사용하여 URL 만들기 ♥<br>
 https://gwanhunportfolio.netlify.app <br>
--portfolio 주소입니다.
+portfolio 주소입니다.
 
 🥇 Goal 🥇<br>
 웹페이지 개발에 대한 전반적인 이해도 높이기!<br>
